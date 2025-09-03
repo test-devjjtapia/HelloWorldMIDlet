@@ -5,7 +5,7 @@ import javax.microedition.lcdui.*;
  * HelloWorldMIDlet - Aplicación MIDP de ejemplo que muestra un mensaje personalizado
  * con funcionalidad extendida que incluye múltiples comandos y mejor interacción.
  * 
- * @author [Tu Nombre]
+ * @author Javier J. Tapia
  * @version 2.0
  */
 public class HelloWorldMIDlet extends MIDlet {
